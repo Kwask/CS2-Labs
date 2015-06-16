@@ -1,0 +1,3 @@
+sandbox.o: sandbox.cpp IntList.h Node.h
+IntList.o: IntList.cpp IntList.h Node.h
+Node.o: Node.cpp Node.h

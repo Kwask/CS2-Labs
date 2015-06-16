@@ -1,0 +1,2 @@
+generate.o: generate.cpp WordDist.h
+WordDist.o: WordDist.cpp WordDist.h
